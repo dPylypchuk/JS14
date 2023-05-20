@@ -3,7 +3,7 @@ const searchBtn = document.querySelector ('.search-btn')
 const gallery = document.querySelector('.gallery')
 const btnLoadMore = document.querySelector('.loadMore')
 
-const apiKey = '23527313-0ef622db472107c47721e8ec2'
+const apiKey = '36594565-a52f7653e219c168a69d522fd'
 const url = 'https://pixabay.com/api'
 
 const renderImgCards = (imgStore) => { 
