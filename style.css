@@ -39,6 +39,9 @@
     list-style: none;
 }
 .photo-card{
+    display: flex;
+    width: 250px;
+    height: 250px;
     border-radius: 10px;
     overflow: hidden;
     width: 23%;
